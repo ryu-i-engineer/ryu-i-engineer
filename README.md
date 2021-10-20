@@ -2,7 +2,7 @@
 ## Technical Skills
 - Python
 - Google Apps Script
-- Unity
+- Unity(C#)
 - C++
 
 ## Work experience
@@ -17,6 +17,6 @@
 ## Hobbies
 - Riding motorbike and going solo-traveling
 - Bouldering
-- get some knowledge
+- Get some knowledge
 
 My English skills are poor, sorry.
