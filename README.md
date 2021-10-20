@@ -1,16 +1,22 @@
-# Japanese Software engineer
-## Skills
-- Selenium(web scraping)
-- Python 3
-- Machine Learning
+# Japanese Software Engineer
+## Technical Skills
+- Python
 - Google Apps Script
-- C++
-- C#
 - Unity
+- C++
+
+## Work experience
+### Quality assurance engineer
+- Created scripts to generate test data and execute of tests for saving time.
+- Created scripts for automated test on EC site with selenium.
+
+### 3D Graphics developer
+- Refactored so complicated code. Made the system faster and lower memory usage than before.
+- Created a 3D software which loading at runtime and can make beautiful without baked lighting.
 
 ## Hobbies
-- Riding motorbike and going solo trip
-- doing extreme sports(bouldering)
+- Riding motorbike and going solo-traveling
+- Bouldering
 - get some knowledge
 
-My English skills are poor. Sorry.
+My English skills are poor, sorry.
