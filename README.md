@@ -1,8 +1,13 @@
 # Japanese Software Engineer
 ## Technical Skills
 - Python
+  - Keras
+  - Pytorch/Pytorch-lightning
+  - Flask
+- JavaScript 
 - Google Apps Script
-- Unity(C#)
+- C#
+  - Unity
 - C++
 
 ## Work experience
