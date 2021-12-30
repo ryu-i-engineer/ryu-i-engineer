@@ -8,6 +8,7 @@
   - TypeScript
   - React
 - Google Apps Script
+- AWS
 - C#
   - Unity
 - C++
