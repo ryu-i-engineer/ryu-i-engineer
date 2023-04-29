@@ -4,11 +4,22 @@
   - Keras
   - Pytorch / Pytorch-lightning
   - Flask
-- JavaScript
-  - TypeScript
-  - React
 - Google Apps Script
+- Linux(Ubuntu, RHEL, CentOS)
 - AWS
+  - EC2
+  - Lambda
+  - S3
+  - Code Commit
+  - Code Build
+  - Code Pipeline
+- Splunk
+  - Splunk Cloud
+  - Splunk Universal Forwarder
+  - Splunk Synthetic Monitoring
+  - APlunk APM
+- Docker
+- Terraform
 - C#
   - Unity
 - C++
@@ -23,39 +34,5 @@
 - Created a 3D software which loading at runtime and can make beautiful without baked lighting.
 
 ## Hobbies
-- Riding motorbike and going solo-traveling
-- Bouldering
+- Go to solo-traveling with motorcycle
 - Reading books
-  - To get some knowledge
-- Watching Hololive's stream
-
-# ソフトウェアエンジニア
-## 技術スキル
-- Python
-  - Keras
-  - Pytorch / Pytorch-lightning
-  - Flask
-- JavaScript
-  - TypeScript
-  - React
-- Google Apps Script
-- AWS
-- C#
-  - Unity
-- C++
-
-## 職務経歴
-### 品質検査エンジニア
-- 作業効率向上のため､テスト自動化スクリプトを作成
-- ECサイトにおけるテスト自動化スクリプトをselniumを使って作成
-
-## 3Dグラフィックエンジニア
-- 複雑化していたコードをリファクタリングし､処理速度の向上及びメモリ使用量を削減することに成功
-- 光源のベイクを使用せずに3Dモデルをランタイムでキレイに描画するソフトウェアの開発(レイトレーシングではありません)
-
-## 趣味
-- バイクに乗って一人旅をすること
-- ボルダリング
-- 読書
-  - 知識を得るため
-- ホロライブメンバーの配信を見ること
