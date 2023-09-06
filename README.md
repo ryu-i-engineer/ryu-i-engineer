@@ -18,6 +18,7 @@
   - Splunk Universal Forwarder
   - Splunk Synthetic Monitoring
   - APlunk APM
+- Celonis(EMS Technical Expert/Solution Creation Expert)
 - Docker
 - Terraform
 - C#
